@@ -11,7 +11,7 @@ In my case, I use Visual Studio Code. So to open this Snippet file I follow this
 ![readme-step-4](https://i.ibb.co/K5J6hkX/readme-final-step.png)
 5. DONE. You can modify this JSON file to create your Snippets.
 ------------------------------------------------------------------
-# Espanol
+# Español
 Podras encontrar el codigo de los Snippets en este archivo => "snippets.json"
 Pero para implementar los Snippets tendras que poner el contenido de este archivo en el archivo correspondiente a los Snippets de tu editor de codigo.
 En mi caso, utilizo Visual Studio Code. Para abrir el archivo de Snippets en este editor de codigo, hay que seguir estos pasos:
