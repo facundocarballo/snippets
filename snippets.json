@@ -1,0 +1,29 @@
+{
+	"import_facundo": {
+		"prefix": "imp",
+		"body": [
+			"${4: adios} import { ${2:values} } from '${1:module}  ${3: holaa}';$0"
+		],
+		"description": "Log output to console"
+	},
+
+	"create_react_component": {
+		"prefix": ["crc", "create", "cr", "create_", "create_react", "create_react_component"],
+		"body": [
+			"import React from 'react';",
+			"",
+			"export const ${TM_FILENAME_BASE} = () => {",
+			"   // Attributes",
+			"   // Context",
+			"   // Methods",
+			"   // Component",
+			"   return(",
+			"      <>",
+			"        $0",
+			"      </>",
+			"   );",
+			"}"
+		],
+		"description": "Creates a React Component using the name of the file."
+	}
+}
